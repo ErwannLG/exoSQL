@@ -1,1 +1,11 @@
-# exoSQL
+# Exercices SQL
+Importer le fichier sql sur phpMyAdmin. En PHP établir une connexion à la base de données puis :
+
+1. Afficher tous les gens dont le nom est Palmer
+2. Afficher toutes les femmes
+3. Tous les pays (country code) dont la lettre commence par N
+4. Tous les emails qui contiennent google
+5. Répartition par Etat et le nombre d’enregistrement par état (croissant)
+6. Insérer un utilisateur, lui mettre à jour son adresse mail, puis supprimer l’utilisateur
+7. Nombre de femmes et d’hommes 
+8. Afficher l'âge de chaque personne, puis la moyenne d’âge des femmes et des hommes
