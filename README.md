@@ -1,5 +1,6 @@
 # Exercices SQL
-Importer le fichier sql sur phpMyAdmin. En PHP établir une connexion à la base de données puis :
+Créer une nouvelle base de données sur phpMyAdmin puis y importer le fichier exercices.sql .
+En PHP établir une connexion à la base de données en utilisant PDO puis :
 
 1. Afficher tous les gens dont le nom est Palmer
 2. Afficher toutes les femmes
